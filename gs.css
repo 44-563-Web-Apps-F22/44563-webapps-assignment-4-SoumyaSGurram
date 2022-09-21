@@ -1,0 +1,40 @@
+.name{
+    font: italic;
+    font-size: 20px;
+    color: blue;
+    
+}
+.directions{
+    font: italic;
+    font-size: 20px;
+    color: blue;
+    background-color: black;
+    
+    
+}
+.directions:hover{
+    background-color: seagreen;
+    color:white;
+}
+.speech{
+    font: italic;
+    font-size: 20px;
+    color: black;
+
+}
+.but{
+    color: peachpuff;
+}
+.dick{
+    color:skyblue;
+}
+.boat{
+    color:blueviolet;
+}
+
+.speech{
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 1;
+}
