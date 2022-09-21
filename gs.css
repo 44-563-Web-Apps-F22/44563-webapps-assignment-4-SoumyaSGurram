@@ -38,3 +38,25 @@
     word-spacing: 2px;
     line-height: 1;
 }
+table, th, td {
+    border: 1px solid rgb(106, 244, 14);
+    border-collapse: collapse;
+  }
+th{
+    
+    color:brown;
+    
+}
+
+th,td{
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+td{
+    color:black;
+}
+a{
+    color:goldenrod;
+}
