@@ -60,3 +60,21 @@ td{
 a{
     color:goldenrod;
 }
+.dick:hover{
+    text-shadow: 2px 2px 5px blue;
+    border:1px solid yellowgreen;
+    padding:5px;
+}
+.all:hover{
+    text-shadow: 2px 2px 5px blue;
+    border:1px solid yellowgreen;
+    padding:5px;
+}
+.boat:hover{
+    text-shadow: 2px 2px 5px blue;
+    border:1px solid yellowgreen;
+    padding:5px;
+}
+
+
+
